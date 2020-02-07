@@ -11,9 +11,6 @@
         <center>Wszystko jest tutaj</center>
     </header>
 	
-
-	<!--#exec cgi="script.pl" -->
-	
 	
 	
     <div>
@@ -74,19 +71,31 @@
             </li>
         </ul>
 		
-		<h3>Badanie Przebiegu Funkcji</h3>
-		<ul>
-			<li><a href="3_19.jpg">19. Badanie Przebiegu Funkcji</a></li>
-		</ul>
+	<h3>Badanie Przebiegu Funkcji</h3>
+	<ul>
+		<li><a href="3_19.jpg">19. Badanie Przebiegu Funkcji</a></li>
+	</ul>
 		
-		<h3>Wielomian Taylora</h3>
-		<ul>
-			<li><a href="3_20.jpg">20. Wielomian Taylora</a></li>
-		</ul>
+	<h3>Wielomian Taylora</h3>
+	<ul>
+		<li><a href="3_20.jpg">20. Wielomian Taylora</a></li>
+		<li><a href="3_21.jpg">21. Wzór Taylora</a></li>
+	</ul>
+	
+	<h3>Wielomiany cd</h3>
+	<ul>
+		<li><a href="3_23.jpg">23. Różniczkowanie Wielomianów</a></li>
+	</ul>
 
         <h3>Całki</h3>
         <ul>
-            <li><a href="3_99.jpg">?. Całki</a></li>
+            <li><a href="3_24.jpg">24. Całka nieoznaczona 1</a></li>
+	    <li><a href="3_25.jpg">25. Całka nieoznaczona 2</a></li>
+	    <li><a href="3_26.jpg">26. Całka nieoznaczona 3</a></li>
+	    <li><a href="3_27.jpg">27. Całkowanie przez części</a></li>
+	    <li><a href="3_28.jpg">28. Całkowanie przez podstawianie</a></li>
+	    <li><a href="3_29.jpg">29. Całka oznaczona</a></li>
+	    
         </ul>
 
         <hr style="clear: right;" />
