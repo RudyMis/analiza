@@ -6,12 +6,7 @@
 </head>
 
 <body>
-    <header style="margin-bottom: 30px;">
-        <center>Wszystko jest tutaj</center>
-    </header>
-	
-	
-	
+   	
     <div>
         <h1>Kartki z analizy</h1>
 
