@@ -90,10 +90,9 @@
         <ul>
             <li><a href="3_24.jpg">24. Całka nieoznaczona 1</a></li>
 	    <li><a href="3_25.jpg">25. Całka nieoznaczona 2</a></li>
-	    <li><a href="3_26.jpg">26. Całka nieoznaczona 3</a></li>
+	    <li><a href="3_26.jpg">26. Całka nieoznaczona 3 (całkowanie przez podstawianie)</a></li>
 	    <li><a href="3_27.jpg">27. Całkowanie przez części</a></li>
-	    <li><a href="3_28.jpg">28. Całkowanie przez podstawianie</a></li>
-	    <li><a href="3_29.jpg">29. Całka oznaczona</a></li>
+	    <li><a href="3_28.jpg">28. Całka oznaczona</a></li>
 	    
         </ul>
 
